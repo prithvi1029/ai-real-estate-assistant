@@ -1,0 +1,10 @@
+# Environments
+.env
+.venv
+env/
+venv/
+venv_2/
+venv_chatbot/
+ENV/
+env.bak/
+venv.bak/
